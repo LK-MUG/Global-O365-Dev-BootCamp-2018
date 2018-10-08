@@ -1,4 +1,4 @@
-# Global-O365-Dev-BootCamp-2018
+# Global Office 365 Developer BootCamp 2018 | Letterkenny, Ireland
 
 
 ### Welcome to Global Office 365 Developer Bootcamp - Letterkenny Chapter Event
