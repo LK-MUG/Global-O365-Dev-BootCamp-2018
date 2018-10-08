@@ -15,10 +15,10 @@ It is a free, one-day, hands-on training event led by Microsoft MVPs with suppor
 Watch the video to hear from [Jeff Teper](https://youtu.be/V65ASGgZksw) and Microsoft MVPs on 2018 Global Office 365 Developer Bootcamp.
 
 ### Session Details ###
-When: Saturday, November 10th' 2018
-Time: 9:00pm – 5:30pm
-Location: - More details to come soon.
-Length: 20 minutes
-Max Attendees: 100 (Due to space constraints, we are limited.)
-Cost: FREE!!!
-Skill Level: Beginner to Intermediate
+*  When: Saturday, November 10th' 2018
+*  Time: 9:00pm – 5:30pm
+* Location: - More details to come soon.
+* Length: 20 minutes
+* Max Attendees: 100 (Due to space constraints, we are limited.)
+* Cost: FREE!!!
+* Skill Level: Beginner to Intermediate
