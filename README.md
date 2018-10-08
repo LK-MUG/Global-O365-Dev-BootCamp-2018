@@ -18,7 +18,6 @@ Watch the video to hear from [Jeff Teper](https://youtu.be/V65ASGgZksw) and Micr
 *  When: Saturday, November 10th' 2018
 *  Time: 9:00pm – 5:30pm
 * Location: - More details to come soon.
-* Length: 20 minutes
 * Max Attendees: 100 (Due to space constraints, we are limited.)
 * Cost: FREE!!!
 * Skill Level: Beginner to Intermediate
