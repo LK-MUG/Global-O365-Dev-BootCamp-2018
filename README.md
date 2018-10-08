@@ -14,9 +14,6 @@ It is a free, one-day, hands-on training event led by Microsoft MVPs with suppor
 
 Watch the video to hear from [Jeff Teper](https://youtu.be/V65ASGgZksw) and Microsoft MVPs on 2018 Global Office 365 Developer Bootcamp.
 
-<iframe src="https://www.youtube-nocookie.com/embed/V65ASGgZksw" height="315" width="560" data-mce-fragment="1" class="x-hidden-focus"><span class="mce_SELRES_start" style="width: 0px; line-height: 0; overflow: hidden; display: inline-block;" data-mce-type="bookmark">ï»¿</span></iframe>
-
-
 ### Session Details ###
 *  When: Saturday, November 10th' 2018
 *  Time: 9:00pm – 5:30pm
