@@ -7,9 +7,18 @@ Following the success of last year, Global Office 365 Developer Bootcamp now bec
 
 It is a free, one-day, hands-on training event led by Microsoft MVPs with support from Microsoft and local community leaders.
 
-### What can you expect?
+### What can you expect? ###
 1. Hands-on labs for intensive learning.
 2. All Office 365 key technologies and products will be discussed
 3. Developers in Letterkenny and surrounding places are invited to attend the bootcamp to learn the latest on Office 365 platform including Microsoft Graph, SharePoint Framework, Microsoft Teams, Office Add-ins, Connectors and Actionable Messages and apply what you learn to your future projects.
 
 Watch the video to hear from [Jeff Teper](https://youtu.be/V65ASGgZksw) and Microsoft MVPs on 2018 Global Office 365 Developer Bootcamp.
+
+### Session Details ###
+When: Saturday, November 10th' 2018
+Time: 9:00pm – 5:30pm
+Location: - More details to come soon.
+Length: 20 minutes
+Max Attendees: 100 (Due to space constraints, we are limited.)
+Cost: FREE!!!
+Skill Level: Beginner to Intermediate
