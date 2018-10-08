@@ -21,3 +21,5 @@ Watch the video to hear from [Jeff Teper](https://youtu.be/V65ASGgZksw) and Micr
 * Max Attendees: 100 (Due to space constraints, we are limited.)
 * Cost: FREE!!!
 * Skill Level: Beginner to Intermediate
+
+![picture alt](https://github.com/LK-MUG/Global-O365-Dev-BootCamp-2018/blob/master/Images/o365_bootcamp.PNG "Agenda")
