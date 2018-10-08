@@ -12,4 +12,4 @@ It is a free, one-day, hands-on training event led by Microsoft MVPs with suppor
 2. All Office 365 key technologies and products will be discussed
 3. Developers in Letterkenny and surrounding places are invited to attend the bootcamp to learn the latest on Office 365 platform including Microsoft Graph, SharePoint Framework, Microsoft Teams, Office Add-ins, Connectors and Actionable Messages and apply what you learn to your future projects.
 
-Watch the video to hear from Jeff Teper(https://youtu.be/V65ASGgZksw) and Microsoft MVPs on 2018 Global Office 365 Developer Bootcamp.
+Watch the video to hear from [Jeff Teper](https://youtu.be/V65ASGgZksw) and Microsoft MVPs on 2018 Global Office 365 Developer Bootcamp.
