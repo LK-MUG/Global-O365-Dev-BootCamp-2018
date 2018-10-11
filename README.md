@@ -22,6 +22,6 @@ Watch the video to hear from [Jeff Teper](https://youtu.be/V65ASGgZksw) and Micr
 * Cost: FREE!!!
 * Skill Level: Beginner to Intermediate
 
-[MEETUP URL](https://www.meetup.com/lk-mug/events/255066993/)
+### [MEETUP URL](https://www.meetup.com/lk-mug/events/255066993/)
 
 ![picture alt](https://github.com/LK-MUG/Global-O365-Dev-BootCamp-2018/blob/master/Images/o365_bootcamp.PNG "Agenda")
