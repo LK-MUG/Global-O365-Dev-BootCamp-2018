@@ -1,4 +1,4 @@
-# Developer Pre-requistes
+# Developer Pre-requisites
 
 
 # Set up your Office 365 tenant
