@@ -27,16 +27,25 @@ You can use any code editor or IDE that supports client-side development to buil
 - [Atom](https://atom.io)
 - [Webstorm](https://www.jetbrains.com/webstorm)
 
+## Install Git command line tools
+[Git source control tools](https://git-scm.com/)
+
+## Clone our starter repo
+Open a command line in a working folder where you want to work on the bootcamp SharePoint Framework labs
+
+```sh
+git clone [todo: git link for the repo with bootcamp starters]
+```
 
 ## Install Yeoman and gulp
 ```sh
 npm install -g yo gulp
 ```
+
 ## Install Yeoman SharePoint generator
 ```sh
 npm install -g @microsoft/generator-sharepoint
 ```
-
 
 ## Optional tools
 
@@ -46,4 +55,3 @@ Following are some tools that might come in handy as well:
 * [Postman plug-in for Chrome](https://www.getpostman.com/docs/postman/launching_postman/navigating_postman)
 * [Cmder for Windows](http://cmder.net/)
 * [Oh My Zsh for Mac](http://ohmyz.sh/)
-* [Git source control tools](https://git-scm.com/)
