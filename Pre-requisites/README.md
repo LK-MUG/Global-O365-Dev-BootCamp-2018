@@ -19,15 +19,11 @@ If you don't have one, you can get an Office 365 developer subscription when you
 
 Install [NodeJS LTS version](https://nodejs.org). 
 
-### Install a code editor
+### Install Visual Studio Code
 
-You can use any code editor or IDE that supports client-side development to build your web part, such as:
+You can use any code editor or IDE that supports client-side development to build your web parts. For our Office365 Bootbamp labs, we will be using [Visual Studio Code](https://code.visualstudio.com/)
 
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Atom](https://atom.io)
-- [Webstorm](https://www.jetbrains.com/webstorm)
-
-## Install Git command line tools
+### Install Git command line tools
 [Git source control tools](https://git-scm.com/)
 
 ## Clone our starter repo
@@ -36,22 +32,3 @@ Open a command line in a working folder where you want to work on the bootcamp S
 ```sh
 git clone [todo: git link for the repo with bootcamp starters]
 ```
-
-## Install Yeoman and gulp
-```sh
-npm install -g yo gulp
-```
-
-## Install Yeoman SharePoint generator
-```sh
-npm install -g @microsoft/generator-sharepoint
-```
-
-## Optional tools
-
-Following are some tools that might come in handy as well:
-
-* [Fiddler](https://www.telerik.com/fiddler)
-* [Postman plug-in for Chrome](https://www.getpostman.com/docs/postman/launching_postman/navigating_postman)
-* [Cmder for Windows](http://cmder.net/)
-* [Oh My Zsh for Mac](http://ohmyz.sh/)
