@@ -1,6 +1,5 @@
 # Developer Pre-requisites
 
-
 # Set up your Office 365 tenant
 
 To build and deploy client-side web parts using the SharePoint Framework, you need an Office 365 tenant. 
@@ -27,8 +26,11 @@ You can use any code editor or IDE that supports client-side development to buil
 [Git source control tools](https://git-scm.com/)
 
 ## Clone our starter repo
-Open a command line in a working folder where you want to work on the bootcamp SharePoint Framework labs
+### Create a working folder
+Create a working folder where you want to work on the bootcamp SharePoint Framework labs. We recommend using a simple folder structure, something like "c:\Work\bootcamp" on Windows, or "~/code/bootcamp" on a Mac.
 
+### Clone the repository from Github
+Open a command prompt in your working folder, and then run the following command:
 ```sh
 git clone [todo: git link for the repo with bootcamp starters]
 ```
