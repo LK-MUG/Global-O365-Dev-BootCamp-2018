@@ -15,14 +15,14 @@ If you don't have one, you can get an Office 365 developer subscription when you
 
 ### Install NodeJS
 
-Install [NodeJS LTS version](https://nodejs.org). 
+Install the [NodeJS LTS version](https://nodejs.org). 
 
 ### Install Visual Studio Code
 
 You can use any code editor or IDE that supports client-side development to build your web parts. For our Office365 Bootbamp labs, we will be using [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Install Git command line tools
-[Git source control tools](https://git-scm.com/)
+Install the [Git source control tools](https://git-scm.com/)
 
 ## Clone our starter repo
 
