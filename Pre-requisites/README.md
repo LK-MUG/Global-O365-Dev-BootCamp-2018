@@ -32,5 +32,5 @@ Create a working folder where you want to work on the bootcamp SharePoint Framew
 ### Clone the repository from Github
 Open a command prompt in your working folder, and then run the following command:
 ```sh
-git clone [todo: git link for the repo with bootcamp starters]
+git clone https://github.com/LK-MUG/spfx_bootcamp_starter.git
 ```
