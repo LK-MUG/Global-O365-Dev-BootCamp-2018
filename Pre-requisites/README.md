@@ -34,6 +34,7 @@ Open a command prompt in your working folder, and then run the following command
 ```sh
 git clone https://github.com/LK-MUG/spfx_bootcamp_starter.git
 ```
+# Setting Up  Office 365 PowerShell Components
 
 ### Install SharePointPnPPowerShellOnline or Office 365 CLI for the package deployment exercise
 
