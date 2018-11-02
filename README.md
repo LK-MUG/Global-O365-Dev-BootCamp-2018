@@ -26,4 +26,4 @@ Watch the video to hear from [Jeff Teper](https://youtu.be/V65ASGgZksw) and Micr
 
 
 ![picture alt](Images/o365_bootcamp.PNG "Global Office 365 Developer Bootcamp")
-
+![picture alt](Images/o365_bootcamp.PNG "Global Office 365 Developer Bootcamp")
