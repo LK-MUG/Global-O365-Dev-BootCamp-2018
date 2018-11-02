@@ -24,6 +24,14 @@ Watch the video to hear from [Jeff Teper](https://youtu.be/V65ASGgZksw) and Micr
 
 ### [REGISTRATION URL](https://www.meetup.com/lk-mug/events/255066993/)
 
+<<<<<<< HEAD
 ![picture alt](Images/o365_announcement_flyer.PNG "Global")
 ![picture alt](Images/o365_agenda_flyer.PNG "Agenda")
 ![picture alt](Images/o365_speakers_flyer.PNG "Speaker")
+=======
+
+![picture alt](Images/o365_announcement_flyer.PNG "Global Office 365 Developer Bootcamp")
+![picture alt](Images/o365_agenda_flyer.PNG "Agenda")
+![picture alt](Images/o365_speakers_flyer.PNG "Speaker List")
+
+>>>>>>> eadc8f5538529f44e9bec98dfcfb55d82322abeb
