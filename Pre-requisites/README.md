@@ -34,3 +34,20 @@ Open a command prompt in your working folder, and then run the following command
 ```sh
 git clone https://github.com/LK-MUG/spfx_bootcamp_starter.git
 ```
+# Setting Up  Office 365 PowerShell Components
+
+### Install SharePointPnPPowerShellOnline or Office 365 CLI for the package deployment exercise
+
+We would need one of the two options installed so we can automate our deployment pipeline. There will be a small exercise use one of the two tools bellow to deploy the solution you created on the Bootcamp. 
+
+#### Option 1: How to install SharePointPnPPowerShellOnline and PowerShell 5.0 (supproted on Windows only)
+
+Here is a manual on how to install SharePointPnPPowerShellOnline PowerShell module if you decided to use PowerShell. We will need it  for the solution deployment exercise.
+
+[Install SharePointPnPPowerShellOnline, PowerShell 5.0 link](https://github.com/SharePoint/PnP-PowerShell/wiki/Install-SharePointPnPPowerShellOnline,-PowerShell-5.0-and-Nuget-behind-proxy)
+
+#### Option 2: Install Office 365 CLI (supported on MAC, Windows, Linux)
+
+If you prefer to use CLI tool and bash here is a manual on how to install Office 365 CLI. We will need it for the solution deployment exercise.
+
+[Install Office 365 CLI link](https://aka.ms/o365cli)
