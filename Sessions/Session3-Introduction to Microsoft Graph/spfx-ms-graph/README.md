@@ -1,4 +1,4 @@
-## ms-graph
+## spfx-ms-graph
 
 This is where you include your WebPart documentation.
 
