@@ -53,7 +53,7 @@ export default class CandidateInternalInfo extends React.Component<ICandidateInt
   // Step 2.3 use the result from the spListClient to request the candidate info from the graphClient, log it to the console.
   // Step 2.4 put the result from the graphClient into the state using setState.
   private getCandidateById(id: number): void {
-    
+    this.setState({selectedId: id});
   }
 
   public render(): React.ReactElement<ICandidateInternalInfoProps> {

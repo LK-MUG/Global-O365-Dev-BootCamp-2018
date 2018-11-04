@@ -29,7 +29,7 @@ export default class MsGraphWebPart extends BaseClientSideWebPart<IMsGraphWebPar
       // TODO Step 1.1 setup @pnp/sp
       
       // TODO Step 2.1 setup @pnp/graph using aadTokenProviderFactory and FetchClientFactory
-      return Promise.resolve();
+      resolve();
     });
   }
   
