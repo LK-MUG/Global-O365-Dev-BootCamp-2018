@@ -54,7 +54,7 @@ If you prefer to use CLI tool and bash here is a manual on how to install Office
 
 [Install Office 365 CLI link](https://aka.ms/o365cli)
 
-# 2. (optional) Set up your Office 365 tenant
+# 3. (optional) Set up your Office 365 tenant
 
 > [!NOTE] 
 > We will supply shared logins for our dev Office tenant on the day. You're welcome to set up your own tenant but it is not required
