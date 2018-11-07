@@ -2,7 +2,7 @@
 
 # 1. Install a modern browser
 
-Please ensure that you have one of [Chrome](https://www.google.com/chrome/), Edge, [Firefox] (https://www.mozilla.org/en-US/firefox/new/) or Safari installed as a few of the demos do not work in Internet Explorer.
+Please ensure that you have one of [Chrome](https://www.google.com/chrome/), Edge, [Firefox](https://www.mozilla.org/en-US/firefox/new/) or Safari installed as a few of the demos do not work in Internet Explorer.
 
 # 2. Set up your SharePoint Framework development environment
 
