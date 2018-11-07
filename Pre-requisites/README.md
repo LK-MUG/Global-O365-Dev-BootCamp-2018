@@ -1,14 +1,5 @@
 # Developer Pre-requisites
 
-# Set up your Office 365 tenant
-
-To build and deploy PowerApps, Flows, and client-side web parts using the SharePoint Framework, you need an Office 365 tenant. 
-
-If you don't have one, you can get an Office 365 developer subscription when you join the [Office 365 Developer Program]( https://developer.microsoft.com/office/dev-program?ocid=BootCamp2018_DevProg). See the [Office 365 Developer Program documentation](https://docs.microsoft.com/en-us/office/developer-program/office-365-developer-program) for step-by-step instructions about how to join the Office 365 Developer Program and sign up and configure your subscription.  
-
-> [!NOTE] 
-> Make sure that you are signed out of any existing Office 365 tenants before you sign up for the Office 365 Developer Program.
-
 # Set up your SharePoint Framework development environment
 
 ## Install developer tools
@@ -62,3 +53,15 @@ Here is a manual on how to install SharePointPnPPowerShellOnline PowerShell modu
 If you prefer to use CLI tool and bash here is a manual on how to install Office 365 CLI. We will need it for the solution deployment exercise.
 
 [Install Office 365 CLI link](https://aka.ms/o365cli)
+
+# Set up your Office 365 tenant
+
+> [!NOTE] 
+> We will supply shared logins for our dev Office tenant on the day. You're welcome to set up your own tenant but it is not required
+
+To build and deploy PowerApps, Flows, and client-side web parts using the SharePoint Framework, you need an Office 365 tenant. 
+
+If you don't have one, you can get an Office 365 developer subscription when you join the [Office 365 Developer Program]( https://developer.microsoft.com/office/dev-program?ocid=BootCamp2018_DevProg). See the [Office 365 Developer Program documentation](https://docs.microsoft.com/en-us/office/developer-program/office-365-developer-program) for step-by-step instructions about how to join the Office 365 Developer Program and sign up and configure your subscription.  
+
+> [!NOTE] 
+> Make sure that you are signed out of any existing Office 365 tenants before you sign up for the Office 365 Developer Program.
