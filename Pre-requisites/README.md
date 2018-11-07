@@ -1,6 +1,6 @@
-# Developer Pre-requisites
+# Pre-requisites for the bootcamp
 
-# Set up your SharePoint Framework development environment
+# 1. Set up your SharePoint Framework development environment
 
 ## Install developer tools
 
@@ -36,7 +36,7 @@ cd Session4_Webpart_Using_MS_Graph
 npm i
 ```
 
-# Setting Up  Office 365 PowerShell Components
+# 2. Setting Up  Office 365 PowerShell Components
 
 ### Install SharePointPnPPowerShellOnline or Office 365 CLI for the package deployment exercise
 
@@ -54,7 +54,7 @@ If you prefer to use CLI tool and bash here is a manual on how to install Office
 
 [Install Office 365 CLI link](https://aka.ms/o365cli)
 
-# Set up your Office 365 tenant
+# 2. (optional) Set up your Office 365 tenant
 
 > [!NOTE] 
 > We will supply shared logins for our dev Office tenant on the day. You're welcome to set up your own tenant but it is not required
