@@ -35,11 +35,13 @@ Open a command prompt in your working folder, and then run the following command
 git clone https://github.com/LK-MUG/spfx_bootcamp_starter.git
 ```
 ### Install the npm packages
-In your command prompt in the working folder, you need to run the following commands to install all the dependencies that the starter projects need
+In your command prompt in the working folder, you need to run the following commands to install all the dependencies that the starter projects need.
 ```sh
+cd spfx_bootcamp_starter
 cd Session2_Github_Webpart
 npm i
-cd ../Session4_Webpart_Using_MS_Graph
+cd ..
+cd Session4_Webpart_Using_MS_Graph
 npm i
 ```
 
