@@ -27,13 +27,22 @@ Install the [Git source control tools](https://git-scm.com/)
 ## Clone our starter repo
 
 ### Create a working folder
-Create a working folder where you want to work on the bootcamp SharePoint Framework labs. We recommend using a simple folder structure, something like "c:\Work\bootcamp" on Windows, or "~/code/bootcamp" on a Mac.
+Create a working folder where you want to work on the bootcamp SharePoint Framework labs. We recommend using a simple folder structure, something like "c:\Work\bootcamp" on Windows, or "~/code/bootcamp" on a Mac or Linux machine.
 
 ### Clone the repository from Github
 Open a command prompt in your working folder, and then run the following command:
 ```sh
 git clone https://github.com/LK-MUG/spfx_bootcamp_starter.git
 ```
+### Install the npm packages
+In your command prompt in the working folder, you need to run the following commands to install all the dependencies that the starter projects need
+```sh
+cd Session2_Github_Webpart
+npm i
+cd ../Session4_Webpart_Using_MS_Graph
+npm i
+```
+
 # Setting Up  Office 365 PowerShell Components
 
 ### Install SharePointPnPPowerShellOnline or Office 365 CLI for the package deployment exercise
