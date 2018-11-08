@@ -46,7 +46,7 @@ npm i
 
 We would need one of the two options installed so we can automate our deployment pipeline. There will be a small exercise use one of the two tools bellow to deploy the solution you created on the Bootcamp. 
 
-#### Option 1: How to install SharePointPnPPowerShellOnline and PowerShell 5.0 (supproted on Windows only)
+#### Option 1: How to install SharePointPnPPowerShellOnline and PowerShell 5.0 (supported on Windows only)
 
 Here is a manual on how to install SharePointPnPPowerShellOnline PowerShell module if you decided to use PowerShell. We will need it  for the solution deployment exercise.
 
