@@ -1,0 +1,13 @@
+this.props.spListClient.getListOfCandidates()
+    .then((availableCandidates: ISPListCandidateListItem[]) => {
+      this.setState((prevState: ICandidateInternalInfoState) => {
+        prevState.users = availableCandidates.map((currentItem) => {
+          return currentItem.Author as ISPListCandidate;
+        });
+        return prevState;
+      });
+      console.info("Retrieved the List of all available candidates", availableCandidates);
+    })
+    .catch((error) => {
+      console.error("Failed to retrieve a list of candidates, please check the property pane.");
+    }); 

@@ -1,0 +1,19 @@
+private getCandidateById(id: number): void {
+    this.setState({selectedId: id});
+
+    this.props.spListClient.getUserPrincipal(id)
+    .then((userPrincipal: ISPListCandidate) => {
+      console.info("Retrieved the userprincipal from the SharePoint List.", userPrincipal);
+      return this.props.graphClient.findUser(userPrincipal.EMail);
+    })
+    .then((candidate: IGraphCandidate) => {
+      console.info("Retrieved the candidate from MS_Graph", candidate);
+      this.setState((prevState: ICandidateInternalInfoState) => {
+        prevState.candidate = candidate;
+        return prevState;
+      });
+    })
+    .catch((error) => {
+      console.error("Failed to retrive the candidate from MS_Graph using the SP List", error);
+    });
+  }

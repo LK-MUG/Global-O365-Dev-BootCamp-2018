@@ -1,0 +1,21 @@
+  protected getPropertyPaneConfiguration(): IPropertyPaneConfiguration {
+    return {
+      pages: [
+        {
+          header: {
+            description: strings.PropertyPaneDescription
+          },
+          groups: [
+            {
+              groupName: strings.BasicGroupName,
+              groupFields: [
+                PropertyPaneTextField('listName', {
+                  label: "List Name"
+                })
+              ]
+            }
+          ]
+        }
+      ]
+    };
+  }

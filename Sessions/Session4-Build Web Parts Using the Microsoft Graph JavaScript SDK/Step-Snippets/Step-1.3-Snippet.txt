@@ -1,0 +1,4 @@
+CandidateInternalInfo,
+{
+    spListClient: new CandidateListService(sp, this.properties.listName)
+}

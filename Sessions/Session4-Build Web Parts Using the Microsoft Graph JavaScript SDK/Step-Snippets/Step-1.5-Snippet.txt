@@ -1,0 +1,7 @@
+public componentDidMount(): void {
+    const listId = this.getListIDFromURL();
+    if (listId > 0) {
+      this.getCandidateById(listId);
+    } 
+    this.getCandidateList();
+  }

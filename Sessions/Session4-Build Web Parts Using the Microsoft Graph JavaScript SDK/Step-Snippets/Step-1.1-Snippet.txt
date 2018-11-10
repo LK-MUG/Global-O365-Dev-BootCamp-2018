@@ -1,0 +1,4 @@
+sp.setup({
+    spfxContext: this.context
+});
+      

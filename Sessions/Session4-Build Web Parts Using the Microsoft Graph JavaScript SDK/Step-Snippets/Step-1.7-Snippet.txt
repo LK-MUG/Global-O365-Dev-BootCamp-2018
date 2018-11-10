@@ -1,0 +1,7 @@
+this.props.spListClient.getUserPrincipal(id)
+    .then((userPrincipal: ISPListCandidate) => {
+      console.info("Retrieved the userprincipal from the SharePoint List.", userPrincipal);
+    })
+    .catch((error) => {
+      console.error("Failed to retrive the candidate from MS_Graph using the SP List", error);
+    });

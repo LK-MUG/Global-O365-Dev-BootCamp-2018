@@ -1,0 +1,16 @@
+this.context.aadTokenProviderFactory
+.getTokenProvider()
+.then((tokenProvider: AadTokenProvider) => {
+
+    graph.setup({
+    graph: {
+        fetchClientFactory: () => {
+        return new MSGraphRestService(tokenProvider);
+        }
+    }
+    });
+
+
+    resolve();
+})
+.catch(reject);
