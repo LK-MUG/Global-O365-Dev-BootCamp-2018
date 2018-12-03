@@ -24,6 +24,6 @@ Watch the video to hear from [Jeff Teper](https://youtu.be/V65ASGgZksw) and Micr
 
 ### [REGISTRATION URL](https://www.meetup.com/lk-mug/events/255066993/)
 
-![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-O365-Dev-BootCamp-2018/master/images/o365_ann.png "Global")
-![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-O365-Dev-BootCamp-2018//master/images/o365_agenda.png "Agenda")
-![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-O365-Dev-BootCamp-2018//master/images/o365_speaker.png "Speaker")
+![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-O365-Dev-BootCamp-2018/master/Images/o365_ann.png "Global")
+![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-O365-Dev-BootCamp-2018//master/Images/o365_agenda.png "Agenda")
+![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-O365-Dev-BootCamp-2018//master/Images/o365_speaker.png "Speaker")
