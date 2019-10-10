@@ -27,7 +27,7 @@ Create a working folder where you want to work on the bootcamp SharePoint Framew
 ### Clone the repository from Github
 Open a command prompt in your working folder, and then run the following command:
 ```sh
-git clone https://github.com/LK-MUG/spfx_bootcamp_starter.git
+git clone https://github.com/LK-MUG/2019-Global-M365-Developer-Bootcamp.git
 ```
 ### Install the npm packages
 In your command prompt in the working folder, you need to run the following commands to install all the dependencies that the starter projects need.
@@ -36,7 +36,7 @@ cd spfx_bootcamp_starter
 cd Session2_Github_Webpart
 npm i
 cd ..
-cd Session4_Webpart_Using_MS_Graph
+cd SessionContents\Teams-SPFx\Demos\01-webpart
 npm i
 ```
 
