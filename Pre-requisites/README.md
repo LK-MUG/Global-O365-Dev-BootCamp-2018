@@ -32,11 +32,16 @@ git clone https://github.com/LK-MUG/2019-Global-M365-Developer-Bootcamp.git
 ### Install the npm packages
 In your command prompt in the working folder, you need to run the following commands to install all the dependencies that the starter projects need.
 ```sh
-cd spfx_bootcamp_starter
-cd Session2_Github_Webpart
+cd SessionContents
+cd Teams-SPFx
+cd Demos
+cd 01-webpart
 npm i
 cd ..
-cd SessionContents\Teams-SPFx\Demos\01-webpart
+cd 02-testing
+npm i
+cd ..
+cd 03-spfxapi
 npm i
 ```
 
